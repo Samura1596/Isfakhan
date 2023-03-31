@@ -1,0 +1,10 @@
+.name{
+    color: black;
+}
+.girlfriend{
+    background: url(../img/img1.png.jpg) ;
+    height: 200vh;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-position: center;
+}
